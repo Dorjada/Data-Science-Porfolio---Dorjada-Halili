@@ -9,4 +9,4 @@ LinkedIn: www.linkedin.com/in/dorjada-halili-570b98195
 
 
 ## Projects
-NHS Emergecy - Triage Accuracy using Machine Learning Models
+NHS Emergency - Triage Accuracy using Machine Learning Models
