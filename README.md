@@ -4,8 +4,8 @@ Welcome to my Data Science journey! Feel free to navigate through my portfolio t
 
 
 ## Contact Information
--Email: dorihalili2@gmail.com
-*LinkedIn: www.linkedin.com/in/dorjada-halili-570b98195
+-Email: dorihalili2@gmail.com-
+*LinkedIn: www.linkedin.com/in/dorjada-halili-570b98195*
 
 
 ## Projects
