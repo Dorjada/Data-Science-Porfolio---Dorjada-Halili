@@ -17,3 +17,7 @@ https://github.com/Dorjada/Data-Science-Portfolio-Dorjada-Halili/tree/main/Metal
 
 3 - Predicting the topic of Customer Banking Questions
 https://github.com/Dorjada/Data-Science-Portfolio-Dorjada-Halili/tree/main/Predicting%20Customer%20Banking%20Questions
+
+
+4- Implemented London's Public Transport Network in Python, ensuring comprehensive connectivity and visual clarity.
+https://github.com/Dorjada/Data-Science-Portfolio-Dorjada-Halili/blob/main/Public_Transport_Network.ipynb
